@@ -1,0 +1,83 @@
+valid/sequence
+--Test: basicSeq.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: basicSeq2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: boolAssignment.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: charAssignment.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: exitSimple.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 42.
+-- Finished
+
+--Test: intAssignment.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 20.
+-- Finished
+
+--Test: intLeadingZeros.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+42
+0
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: stringAssignment.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+

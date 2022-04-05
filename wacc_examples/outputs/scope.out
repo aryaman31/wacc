@@ -1,0 +1,165 @@
+valid/scope
+--Test: ifNested1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: ifNested2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: indentationNotImportant.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: intsAndKeywords.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printAllTypes.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+( [1, 2, 3] , [a, b, c] )
+[ 0x23210 = (a, true), 0x23240 = (b, false) ]
+1, 2
+array, of, strings
+true, false, true
+xyz
+1, 2, 3
+this is a string
+true
+x
+5
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scope.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeBasic.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeIfRedefine.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+12
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeRedefine.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeSimpleRedefine.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+12
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeVars.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2
+4
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeWhileNested.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+counting... 5
+counting... 4
+counting... 3
+counting... 2
+counting... 1
+0 Boom!
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: scopeWhileRedefine.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+counting... 5
+counting... 4
+counting... 3
+counting... 2
+counting... 1
+0 Boom!
+===========================================================
+The exit code is 0.
+-- Finished
+

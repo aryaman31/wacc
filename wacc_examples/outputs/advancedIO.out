@@ -1,0 +1,34 @@
+valid/IO/advancedIO
+--Test: IOLoop.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Please input an integer: echo input: 5
+Do you want to continue entering input?
+(enter Y for 'yes' and N for 'no')
+Please input an integer: echo input: 4
+Do you want to continue entering input?
+(enter Y for 'yes' and N for 'no')
+Please input an integer: echo input: 2
+Do you want to continue entering input?
+(enter Y for 'yes' and N for 'no')
+Please input an integer: echo input: 7
+Do you want to continue entering input?
+(enter Y for 'yes' and N for 'no')
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: IOSequence.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Please input an integer: You input: 242
+===========================================================
+The exit code is 0.
+-- Finished
+

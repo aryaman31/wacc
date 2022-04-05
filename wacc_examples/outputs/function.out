@@ -1,0 +1,395 @@
+valid/function
+--Test: fibonacciFullRec.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+This program calculates the nth fibonacci number recursively.
+Please enter n (should not be too large): The input n is 7
+The nth fibonacci number is 13
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: fibonacciRecursive.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+The first 20 fibonacci numbers are:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181...
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: fixedPointRealArithmetic.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Using fixed-point real: 10 / 3 * 3 = 10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionConditionalReturn.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: mutualRecursion.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+r1: sending 8
+r2: received 8
+r1: sending 7
+r2: received 7
+r1: sending 6
+r2: received 6
+r1: sending 5
+r2: received 5
+r1: sending 4
+r2: received 4
+r1: sending 3
+r2: received 3
+r1: sending 2
+r2: received 2
+r1: sending 1
+r2: received 1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printInputTriangle.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Please enter the size of the triangle to print: 
+--------
+-------
+------
+-----
+----
+---
+--
+-
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printTriangle.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+--------
+-------
+------
+-----
+----
+---
+--
+-
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: simpleRecursion.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: asciiTable.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Ascii character lookup table:
+-------------
+|   32 =    |
+|   33 = !  |
+|   34 = "  |
+|   35 = #  |
+|   36 = $  |
+|   37 = %  |
+|   38 = &  |
+|   39 = '  |
+|   40 = (  |
+|   41 = )  |
+|   42 = *  |
+|   43 = +  |
+|   44 = ,  |
+|   45 = -  |
+|   46 = .  |
+|   47 = /  |
+|   48 = 0  |
+|   49 = 1  |
+|   50 = 2  |
+|   51 = 3  |
+|   52 = 4  |
+|   53 = 5  |
+|   54 = 6  |
+|   55 = 7  |
+|   56 = 8  |
+|   57 = 9  |
+|   58 = :  |
+|   59 = ;  |
+|   60 = <  |
+|   61 = =  |
+|   62 = >  |
+|   63 = ?  |
+|   64 = @  |
+|   65 = A  |
+|   66 = B  |
+|   67 = C  |
+|   68 = D  |
+|   69 = E  |
+|   70 = F  |
+|   71 = G  |
+|   72 = H  |
+|   73 = I  |
+|   74 = J  |
+|   75 = K  |
+|   76 = L  |
+|   77 = M  |
+|   78 = N  |
+|   79 = O  |
+|   80 = P  |
+|   81 = Q  |
+|   82 = R  |
+|   83 = S  |
+|   84 = T  |
+|   85 = U  |
+|   86 = V  |
+|   87 = W  |
+|   88 = X  |
+|   89 = Y  |
+|   90 = Z  |
+|   91 = [  |
+|   92 = \  |
+|   93 = ]  |
+|   94 = ^  |
+|   95 = _  |
+|   96 = `  |
+|   97 = a  |
+|   98 = b  |
+|   99 = c  |
+|  100 = d  |
+|  101 = e  |
+|  102 = f  |
+|  103 = g  |
+|  104 = h  |
+|  105 = i  |
+|  106 = j  |
+|  107 = k  |
+|  108 = l  |
+|  109 = m  |
+|  110 = n  |
+|  111 = o  |
+|  112 = p  |
+|  113 = q  |
+|  114 = r  |
+|  115 = s  |
+|  116 = t  |
+|  117 = u  |
+|  118 = v  |
+|  119 = w  |
+|  120 = x  |
+|  121 = y  |
+|  122 = z  |
+|  123 = {  |
+|  124 = |  |
+|  125 = }  |
+|  126 = ~  |
+-------------
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionDeclaration.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionDoubleReturn.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+3
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionIfReturns.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+go
+1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionManyArguments.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+a is 42
+b is true
+c is u
+d is hello
+e is 0x22190
+f is 0x221a0
+answer is g
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionMultiReturns.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionReturnPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionSimple.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+0
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionSimpleLoop.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: functionUpdateParameter.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+y is 1
+x is 1
+x is now 5
+y is still 1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: incFunction.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+1
+4
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negFunction.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: sameArgName.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+99
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: sameArgName2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+99
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: sameNameAsVar.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+5
+===========================================================
+The exit code is 0.
+-- Finished
+

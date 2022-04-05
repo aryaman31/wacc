@@ -1,0 +1,542 @@
+valid/expressions
+--Test: andExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: andOverOrExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: boolCalc.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: boolExpr1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: charComparisonExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+true
+true
+false
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: divExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: equalsExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: equalsOverAnd.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: equalsOverBool.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: equalsOverOr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: greaterEqExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: greaterExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: intCalc.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+72
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: intExpr1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: lessCharExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: lessEqExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: lessExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: longExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 153.
+-- Finished
+
+--Test: longExpr2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 10.
+-- Finished
+
+--Test: longExpr3.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 9.
+-- Finished
+
+--Test: longSplitExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 153.
+-- Finished
+
+--Test: longSplitExpr2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+362880
+128
+===========================================================
+The exit code is 128.
+-- Finished
+
+--Test: minusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+5
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: minusMinusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+3
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: minusNoWhitespaceExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: minusPlusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: modExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: multExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+15
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: multNoWhitespaceExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negBothDiv.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negBothMod.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negDividendDiv.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negDividendMod.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negDivisorDiv.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negDivisorMod.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: negExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-42
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: notExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+false
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: notequalsExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: orExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+true
+false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: ordAndchrExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+a is 97
+99 is c
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: plusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+35
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: plusMinusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-1
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: plusNoWhitespaceExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+3
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: plusPlusExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+3
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: sequentialCount.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Can you count to 10?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: stringEqualsExpr.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+true
+false
+false
+===========================================================
+The exit code is 0.
+-- Finished
+

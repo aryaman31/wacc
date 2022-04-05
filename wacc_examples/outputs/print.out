@@ -1,0 +1,142 @@
+valid/IO/print
+--Test: hashInProgram.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+We can print the hash character: #
+We can also print # when its in a string.
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: multipleStringsAssignment.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+s1 is Hi
+s2 is Hello
+They are not the same string.
+Now make s1 = s2
+s1 is Hello
+s2 is Hello
+They are the same string.
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: print-backspace.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Hell World!
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: print-carridge-return.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+ World!
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: print.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Hello World!
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printBool.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+True is true
+False is false
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printChar.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+A simple character example is f
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printCharArray.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+hi!
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printCharAsString.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+foo
+bar
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printEscChar.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+An escaped character example is "
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printInt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+An example integer is 189
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: println.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Hello World!
+===========================================================
+The exit code is 0.
+-- Finished
+

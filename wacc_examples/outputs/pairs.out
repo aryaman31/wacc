@@ -1,0 +1,183 @@
+valid/pairs
+--Test: checkRefPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+0x22190
+0x22190
+true
+10
+10
+true
+a
+a
+true
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: createPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: createPair02.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: createPair03.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: createRefPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: free.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: linkedList.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+list = {1, 2, 4, 11}
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: nestedPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: null.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+(nil)
+(nil)
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printNull.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+(nil)
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printNullPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+(nil)
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+0x22190 = (10, a)
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: printPairOfNulls.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+0x22190 = ((nil),(nil))
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: readPair.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Please enter the first element (char): Please enter the second element (int): The first element was c
+The second element was 5
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: writeFst.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+10
+42
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: writeSnd.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+a
+Z
+===========================================================
+The exit code is 0.
+-- Finished
+

@@ -1,0 +1,152 @@
+valid/while
+--Test: fibonacciFullIt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+This program calculates the nth fibonacci number iteratively.
+Please enter n (should not be too large): The input n is 7
+The nth fibonacci number is 13
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: fibonacciIterative.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+The first 20 fibonacci numbers are:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, ...
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: loopCharCondition.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Change c
+Should print "Change c" once before.
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: loopIntCondition.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Change n
+Should print "Change n" once before.
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: max.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+max value = 17
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: min.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+min value = 10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: rmStyleAdd.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+initial value of x: 3
+(+)(+)(+)(+)(+)(+)(+)
+final value of x: 10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: rmStyleAddIO.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Enter the first number: Enter the second number: Initial value of x: 3
+(+)(+)(+)(+)(+)(+)(+)(+)
+final value of x: 11
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: whileBasic.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: whileBoolFlip.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+flip b!
+end of loop
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: whileCount.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+Can you count to 10?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: whileFalse.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+end of loop
+===========================================================
+The exit code is 0.
+-- Finished
+

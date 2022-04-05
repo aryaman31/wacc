@@ -1,0 +1,84 @@
+valid/IO/read
+--Test: echoBigInt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter an integer to echo
+2147483647
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: echoBigNegInt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter an integer to echo
+-2147483648
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: echoChar.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter a character to echo
+x
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: echoInt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter an integer to echo
+3
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: echoNegInt.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter an integer to echo
+-4
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: echoPuncChar.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+enter a character to echo
+.
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: read.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+input an integer to continue...
+===========================================================
+The exit code is 0.
+-- Finished
+

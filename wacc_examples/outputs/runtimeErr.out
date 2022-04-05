@@ -1,0 +1,243 @@
+valid/runtimeErr
+--Test: arrayNegBounds.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+ArrayIndexOutOfBoundsError: negative index
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: arrayOutOfBounds.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+ArrayIndexOutOfBoundsError: index too large
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: arrayOutOfBoundsWrite.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+ArrayIndexOutOfBoundsError: index too large
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: divZero.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+DivideByZeroError: divide or modulo by zero
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: divideByZero.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+DivideByZeroError: divide or modulo by zero
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: modByZero.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+DivideByZeroError: divide or modulo by zero
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intJustOverflow.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2147483646
+2147483647
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intUnderflow.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2147483647
+-2147483648
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intWayOverflow.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2000000000
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intmultOverflow.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+2147483
+2147483000
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intnegateOverflow.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2147483648
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intnegateOverflow2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2147483648
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intnegateOverflow3.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-20000
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: intnegateOverflow4.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+-2000000000
+OverflowError: the result is too small/large to store in a 4-byte signed-integer.
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: freeNull.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: readNull1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: readNull2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: setNull1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: setNull2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: useNull1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+
+--Test: useNull2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+NullReferenceError: dereference a null reference
+===========================================================
+The exit code is 255.
+-- Finished
+

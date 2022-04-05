@@ -1,0 +1,110 @@
+valid/if
+--Test: if1.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: if2.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: if3.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: if4.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: if5.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: if6.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+correct
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: ifBasic.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: ifFalse.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+here
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: ifTrue.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+here
+===========================================================
+The exit code is 0.
+-- Finished
+
+--Test: whitespace.wacc
+
+-- Compiling...
+-- Assembling and Linking...
+-- Executing...
+===========================================================
+1
+===========================================================
+The exit code is 0.
+-- Finished
+

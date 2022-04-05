@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# shellcheck disable=SC2068
+java -jar HOT_WACC_11.jar $@
+exit $?
